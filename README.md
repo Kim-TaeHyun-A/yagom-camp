@@ -9,7 +9,7 @@
 |프로젝트|기간|
 |------|--|
 |[⚾️ 숫자 야구](https://github.com/Kim-TaeHyun-A/ios-number-baseball) |02.08 ~ 02.11|
-|[✊ 묵찌빠 게임](https://github.com/Kim-TaeHyun-A/ios-rock-paper-scissors)|02.15 ~ 19|
+|[✊ 묵찌빠 게임](https://github.com/Kim-TaeHyun-A/ios-rock-paper-scissors)|02.15 ~ 02.19|
 |[🧃 쥬스 메이커](https://github.com/Kim-TaeHyun-A/ios-juice-maker)|02.21 ~ 03.11|
 |[🧮 계산기 I](https://github.com/Kim-TaeHyun-A/ios-calculator-app)|03.14 ~ 03.25|
 |[🧮 계산기 II](https://github.com/Kim-TaeHyun-A/ios-calculator-app-team)|03.28 ~ 04.01|
