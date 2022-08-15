@@ -11,9 +11,9 @@
 |[⚾️ 숫자 야구](https://github.com/Kim-TaeHyun-A/ios-number-baseball) |02.08 ~ 02.11|
 |[✊ 묵찌빠 게임](https://github.com/Kim-TaeHyun-A/ios-rock-paper-scissors)|02.15 ~ 19|
 |[🧃 쥬스 메이커](https://github.com/Kim-TaeHyun-A/ios-juice-maker)|02.21 ~ 03.11|
-|[🧮 계산기 I](https://github.com/Kim-TaeHyun-A/ios-calculator-app)|03.14 ~ 25|
+|[🧮 계산기 I](https://github.com/Kim-TaeHyun-A/ios-calculator-app)|03.14 ~ 03.25|
 |[🧮 계산기 II](https://github.com/Kim-TaeHyun-A/ios-calculator-app-team)|03.28 ~ 04.01|
-|[🌃 만국박람회](https://github.com/Kim-TaeHyun-A/ios-exposition-universelle)|04.11 ~ 4.22|
+|[🌃 만국박람회](https://github.com/Kim-TaeHyun-A/ios-exposition-universelle)|04.11 ~ 04.22|
 |[🏦 은행 창구 매니저](https://github.com/Kim-TaeHyun-A/ios-bank-manager)|04.25 ~ 05.06|
 |[🛒 오픈 마켓](https://github.com/Kim-TaeHyun-A/ios-open-market)|04.25 ~ 05.06|
 |[📔 일기장](https://github.com/Kim-TaeHyun-A/ios-diary)|06.13 ~ 07.01|
