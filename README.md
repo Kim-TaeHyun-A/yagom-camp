@@ -17,7 +17,7 @@
 |[🏦 은행 창구 매니저](https://github.com/Kim-TaeHyun-A/ios-bank-manager)|04.25 ~ 05.06|
 |[🛒 오픈 마켓](https://github.com/Kim-TaeHyun-A/ios-open-market)|04.25 ~ 05.06|
 |[📔 일기장](https://github.com/Kim-TaeHyun-A/ios-diary)|06.13 ~ 07.01|
-|[🗂 프로젝트 매니저](https://github.com/Kim-TaeHyun-A/ios-project-manager)|07.04 ~ 07.15|
+|[🗂 프로젝트 매니저](https://github.com/Kim-TaeHyun-A/ios-project-manager)|07.04 ~ 07.29|
 
 ## 6기 리뷰어 활동
 >리뷰기간: 2022.04.11 ~ 2022.04.24
